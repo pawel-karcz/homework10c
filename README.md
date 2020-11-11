@@ -3,7 +3,7 @@ In order to get the code and install dependencies:
 
 ```bash
 git clone git@github.com:pawel-karcz/homework10c.git
-cd 10-clouds-homework
+cd homework10c
 npm install
 ```
 
